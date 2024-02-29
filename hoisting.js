@@ -2,11 +2,11 @@
  * ---------------- hoisting -----------------
  * ==> Hoisting is JavaScript's default behavior of moving all declarations to the top of the current scope
  * 
- * ==> that's why we can access any of these function before declaration
+ * ==> that's why we can access any of these function, var before declaration
  * 
  * ==> but, not take the initialization or right side part of declaration
  * 
- * ==> that's why we can access the variable(var) before initialization but not getting the value
+ * ==> that's why we can access the variable(var) or function before initialization but not getting the value
  * 
  * ==> let or const can accessed after declaration also inside the own block
  * 
